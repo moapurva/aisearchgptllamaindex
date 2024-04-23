@@ -17,5 +17,7 @@
 
 >**Running the Notebook**
 1. Once complete, open the notebook in your Jupyter enabled IDE or environment
-2. Follow the steps in each cell
-3. Enjoy!
+2. Run cells 2-4
+3. For cell 5, fill in the variables from the Azure resources you created, there's instructions in the cell on where to get each
+4. Continue running the cells, you can change line 3 in the final cell to ask different questions of the dataset.
+5. Enjoy!
